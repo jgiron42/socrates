@@ -2,11 +2,10 @@
 ![Logo](https://i.imgur.com/JyKRlbd.png)
 
 # socrates
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![Run tests](https://github.com/nesvoboda/socrates/workflows/Run%20tests/badge.svg)
-[![codecov](https://codecov.io/gh/nesvoboda/socrates/branch/master/graph/badge.svg?token=NB9C6688R1)](https://codecov.io/gh/nesvoboda/socrates)
 
-A small testing framework for 42's philosophers.
+This git is a fork from https://github.com/nesvoboda/socrates by [nesvoboda](https://github.com/nesvoboda) adapted to the new subject
+
+A small testing framework for 42's philosophers **adapted to the new subject (2021)**.
 
 **New**: now includes Delay-o-meter, a tool to measure sleep inaccuracy
 
@@ -61,7 +60,7 @@ Requirements: python 3.6+, [psutil](https://github.com/giampaolo/psutil/blob/mas
 
 1. Clone the repo
 ```
-git clone https://github.com/nesvoboda/socrates
+git clone https://github.com/jgiron/socrates-2021
 cd socrates
 ```
 
