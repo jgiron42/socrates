@@ -1,7 +1,7 @@
 
 ![Logo](https://i.imgur.com/JyKRlbd.png)
 
-# socrates
+# socrates-2021
 
 This git is a fork from https://github.com/nesvoboda/socrates by [nesvoboda](https://github.com/nesvoboda) adapted to the new subject
 
